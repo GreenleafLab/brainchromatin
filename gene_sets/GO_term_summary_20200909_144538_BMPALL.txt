@@ -1,0 +1,329 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:87859	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	2		negative regulation of BMP signaling pathway	regulates a function/process that happens in duct epithelial cell		IMP	MGI:104738 	J:190763 	
+MGI:87911	Acvr1	activin A receptor, type 1	2		BMP signaling pathway			IBA	PTN001147404 	J:265628 	
+MGI:87911	Acvr1	activin A receptor, type 1	2		BMP signaling pathway			ISO	Q04771 	J:164563 	
+MGI:87911	Acvr1	activin A receptor, type 1	2		BMP signaling pathway involved in heart development			IMP		J:103532 	
+MGI:102806	Acvr2a	activin receptor IIA	2		BMP signaling pathway			IMP		J:229306 	
+MGI:102806	Acvr2a	activin receptor IIA	2		BMP signaling pathway	happens in smooth muscle cell		IMP		J:123381 	
+MGI:102806	Acvr2a	activin receptor IIA	2		BMP signaling pathway			ISO	P27037 	J:123381 J:164563 	
+MGI:87912	Acvr2b	activin receptor IIB	9		BMP signaling pathway			ISO	Q13705 	J:164563 	
+MGI:1338946	Acvrl1	activin A receptor, type II-like 1	15		BMP signaling pathway			IBA	PTN001147404 	J:265628 	
+MGI:1338946	Acvrl1	activin A receptor, type II-like 1	15		BMP signaling pathway			IMP	MGI:3604490 	J:186473 	
+MGI:1338946	Acvrl1	activin A receptor, type II-like 1	15		BMP signaling pathway			ISO	P37023 	J:164563 	
+MGI:1338946	Acvrl1	activin A receptor, type II-like 1	15		positive regulation of BMP signaling pathway			IDA		J:164086 	
+MGI:1338946	Acvrl1	activin A receptor, type II-like 1	15		positive regulation of BMP signaling pathway			ISO	P37023 	J:164563 	
+MGI:1915260	Bambi	BMP and activin membrane-bound inhibitor	18		negative regulation of BMP signaling pathway			ISO	Q13145 	J:164563 	
+MGI:5590788	Bmncr	bone marrow associated noncoding RNA	1		BMP signaling pathway			IDA		J:270992 	
+MGI:5590788	Bmncr	bone marrow associated noncoding RNA	1		BMP signaling pathway			IMP		J:270992 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		BMP signaling pathway			IBA	PTN000218210 	J:265628 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		BMP signaling pathway			IDA		J:86665 J:146446 J:154664 J:160796 J:217224 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		BMP signaling pathway			IGI	MGI:2679262 	J:101046 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		BMP signaling pathway			ISO	RGD:2211 	J:155856 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		BMP signaling pathway			ISO	P12643 	J:123381 J:164563 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		BMP signaling pathway involved in heart induction			ISO	P12643 	J:164563 	
+MGI:88177	Bmp2	bone morphogenetic protein 2	2		positive regulation of Wnt signaling pathway by BMP signaling pathway	regulates a function/process that happens in osteoblast		IDA		J:150546 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		BMP signaling pathway			IDA		J:86665 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		BMP signaling pathway	happens in smooth muscle cell		IDA		J:123381 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		BMP signaling pathway			IGI	MGI:2679262 	J:101046 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		BMP signaling pathway			ISO	P12644 	J:123381 J:164563 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		BMP signaling pathway involved in heart development			IMP		J:89237 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		BMP signaling pathway involved in heart induction			ISO	P12644 	J:164563 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		BMP signaling pathway involved in nephric duct formation			ISO	P12644 	J:164563 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		BMP signaling pathway involved in renal system segmentation			IMP		J:121412 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		BMP signaling pathway involved in ureter morphogenesis			IDA		J:121412 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		negative regulation of branch elongation involved in ureteric bud branching by BMP signaling pathway			ISO	P12644 	J:164563 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		positive regulation of BMP signaling pathway			IDA		J:156015 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		specification of ureteric bud anterior/posterior symmetry by BMP signaling pathway			ISO	P12644 	J:164563 	
+MGI:88181	Bmp5	bone morphogenetic protein 5	9		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:88182	Bmp6	bone morphogenetic protein 6	13		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:88182	Bmp6	bone morphogenetic protein 6	13		BMP signaling pathway			IDA		J:86665 J:154664 	
+MGI:88182	Bmp6	bone morphogenetic protein 6	13		BMP signaling pathway	happens in liver		IMP		J:151027 	
+MGI:88182	Bmp6	bone morphogenetic protein 6	13		BMP signaling pathway			ISO	P22004 	J:164563 	
+MGI:103302	Bmp7	bone morphogenetic protein 7	2		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:103302	Bmp7	bone morphogenetic protein 7	2		BMP signaling pathway			IDA		J:86665 	
+MGI:103302	Bmp7	bone morphogenetic protein 7	2		BMP signaling pathway			ISO	P18075 	J:164563 	
+MGI:104515	Bmp8a	bone morphogenetic protein 8a	4		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:107335	Bmp8b	bone morphogenetic protein 8b	4		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:1338820	Bmp10	bone morphogenetic protein 10	6		BMP signaling pathway			ISO	O95393 	J:73065 	
+MGI:1316745	Bmp15	bone morphogenetic protein 15	X		BMP signaling pathway			IBA	PTN000218210 	J:265628 	
+MGI:1920480	Bmper	BMP-binding endothelial regulator	9		negative regulation of BMP signaling pathway			IDA		J:84799 	
+MGI:1338938	Bmpr1a	bone morphogenetic protein receptor, type 1A	14		BMP signaling pathway			IBA	PTN001147404 	J:265628 	
+MGI:1338938	Bmpr1a	bone morphogenetic protein receptor, type 1A	14		BMP signaling pathway			IDA		J:42602 	
+MGI:1338938	Bmpr1a	bone morphogenetic protein receptor, type 1A	14		BMP signaling pathway			IGI	MGI:1916835 MGI:88177 	J:109016 	
+MGI:1338938	Bmpr1a	bone morphogenetic protein receptor, type 1A	14		BMP signaling pathway			IGI	MGI:95689 MGI:95690 	J:101432 	
+MGI:1338938	Bmpr1a	bone morphogenetic protein receptor, type 1A	14		BMP signaling pathway			IMP		J:101432 J:229306 	
+MGI:1338938	Bmpr1a	bone morphogenetic protein receptor, type 1A	14		BMP signaling pathway	happens in embryo|happens in extraembryonic visceral endoderm		IMP	MGI:2158342 	J:124681 	
+MGI:1338938	Bmpr1a	bone morphogenetic protein receptor, type 1A	14		BMP signaling pathway			IMP	MGI:2158343 	J:119568 	
+MGI:1338938	Bmpr1a	bone morphogenetic protein receptor, type 1A	14		BMP signaling pathway			ISO	P36894 	J:164563 	
+MGI:1338938	Bmpr1a	bone morphogenetic protein receptor, type 1A	14		BMP signaling pathway involved in heart development			IC	GO:0003203 	J:89521 	
+MGI:107191	Bmpr1b	bone morphogenetic protein receptor, type 1B	3		BMP signaling pathway			IBA	PTN001147404 	J:265628 	
+MGI:107191	Bmpr1b	bone morphogenetic protein receptor, type 1B	3		BMP signaling pathway			IDA		J:229366 	
+MGI:107191	Bmpr1b	bone morphogenetic protein receptor, type 1B	3		BMP signaling pathway			IGI	MGI:109452 MGI:1916835 MGI:88177 	J:109016 	
+MGI:107191	Bmpr1b	bone morphogenetic protein receptor, type 1B	3		BMP signaling pathway			IGI	MGI:95689 MGI:95690 	J:101432 	
+MGI:107191	Bmpr1b	bone morphogenetic protein receptor, type 1B	3		BMP signaling pathway			IMP		J:69633 	
+MGI:107191	Bmpr1b	bone morphogenetic protein receptor, type 1B	3		BMP signaling pathway			ISO	O00238 	J:164563 	
+MGI:1095407	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	1		BMP signaling pathway			IBA	PTN001147423 	J:265628 	
+MGI:1095407	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	1		BMP signaling pathway			IMP		J:137457 J:229306 	
+MGI:1095407	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	1		BMP signaling pathway	happens in smooth muscle cell		IMP		J:123381 	
+MGI:1095407	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	1		BMP signaling pathway			ISO	Q13161 	J:123381 	
+MGI:1095407	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	1		BMP signaling pathway			ISO	Q13873 	J:164563 	
+MGI:1095407	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	1		positive regulation of BMP signaling pathway			ISO	Q13873 	J:164563 	
+MGI:102709	Cav1	caveolin 1, caveolae protein	6		negative regulation of BMP signaling pathway			ISO	Q03135 	J:164563 	
+MGI:88613	Ccn1	cellular communication network factor 1	3		positive regulation of BMP signaling pathway			ISO	O00622 	J:164563 	
+MGI:105057	Cdh5	cadherin 5	8		positive regulation of BMP signaling pathway			ISO	P33151 	J:164563 	
+MGI:1201414	Cer1	cerberus 1, DAN family BMP antagonist	4		negative regulation of BMP signaling pathway			IDA		J:44900 J:46377 	
+MGI:1201414	Cer1	cerberus 1, DAN family BMP antagonist	4		sequestering of BMP in extracellular matrix			IBA	PTN000392278 	J:265628 	
+MGI:1201414	Cer1	cerberus 1, DAN family BMP antagonist	4		sequestering of BMP in extracellular matrix			IDA		J:62082 	
+MGI:1201414	Cer1	cerberus 1, DAN family BMP antagonist	4		sequestering of BMP in extracellular matrix			ISO	O95813 	J:164563 	
+MGI:1313268	Chrd	chordin	16		BMP signaling pathway involved in spinal cord dorsal/ventral patterning			ISO	Q9H2X0 	J:164563 	
+MGI:1313268	Chrd	chordin	16		negative regulation of BMP signaling pathway			IDA		J:98069 J:157031 	
+MGI:1313268	Chrd	chordin	16		negative regulation of BMP signaling pathway			ISO	Q9H2X0 	J:164563 	
+MGI:1933172	Chrdl1	chordin-like 1	X		negative regulation of BMP signaling pathway			IDA		J:197419 	
+MGI:1916371	Chrdl2	chordin-like 2	7		negative regulation of BMP signaling pathway			IDA		J:87049 	
+MGI:88469	Comp	cartilage oligomeric matrix protein	8		BMP signaling pathway			IMP		J:183590 	
+MGI:2679260	Crb2	crumbs family member 2	2		positive regulation of BMP signaling pathway	uses UniProtKB:P21275		IMP		J:177837 	
+MGI:1354756	Crim1	cysteine rich transmembrane BMP regulator 1 (chordin like)	17		negative regulation of BMP signaling pathway			ISO	Q9NZV1 	J:164563 	
+MGI:1196405	Ctdspl2	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2	2		negative regulation of BMP signaling pathway			IMP		J:217224 	
+MGI:1344365	Dand5	DAN domain family member 5, BMP antagonist	8		negative regulation of BMP signaling pathway			IDA		J:93051 	
+MGI:1344365	Dand5	DAN domain family member 5, BMP antagonist	8		sequestering of BMP in extracellular matrix			IBA	PTN000392278 	J:265628 	
+MGI:105037	Ddx5	DEAD box helicase 5	11		BMP signaling pathway			ISO	P17844 	J:164563 	
+MGI:1329040	Dkk1	dickkopf WNT signaling pathway inhibitor 1	19		negative regulation of BMP signaling pathway			IDA		J:157031 	
+MGI:94901	Dlx1	distal-less homeobox 1	2		negative regulation of BMP signaling pathway			ISO	P56177 	J:164563 	
+MGI:101926	Dlx5	distal-less homeobox 5	6		BMP signaling pathway			IMP		J:196266 	
+MGI:2661061	Dsg4	desmoglein 4	18		BMP signaling pathway			IDA		J:142136 	
+MGI:1349469	Ecsit	ECSIT signalling integrator	9		BMP signaling pathway			IDA		J:86912 	
+MGI:95295	Egr1	early growth response 1	18		BMP signaling pathway			IDA		J:33445 	
+MGI:2443264	Elapor2	endosome-lysosome associated apoptosis and autophagy regulator family member 2	5		positive regulation of BMP signaling pathway			IDA		J:285010 	
+MGI:95392	Eng	endoglin	2		positive regulation of BMP signaling pathway			ISO	P17813 	J:164563 	
+MGI:99253	Etv2	ets variant 2	7		BMP signaling pathway involved in mesodermal cell fate specification			IDA		J:155850 	
+MGI:894663	Ext1	exostosin glycosyltransferase 1	15		BMP signaling pathway	is a part of mesodermal cell differentiation,is a part of stem cell differentiation		IDA		J:286754 	
+MGI:894663	Ext1	exostosin glycosyltransferase 1	15		BMP signaling pathway	is a part of mesodermal cell differentiation,is a part of stem cell differentiation		IMP		J:286754 	
+MGI:894663	Ext1	exostosin glycosyltransferase 1	15		BMP signaling pathway	is a part of cellular response to BMP stimulus		IMP		J:196289 	
+MGI:894663	Ext1	exostosin glycosyltransferase 1	15		BMP signaling pathway			IMP		J:242977 J:286759 	
+MGI:1916890	Fam83g	family with sequence similarity 83, member G	11		BMP signaling pathway			IBA	PTN000415270 	J:265628 	
+MGI:1916890	Fam83g	family with sequence similarity 83, member G	11		BMP signaling pathway			ISO	A6ND36 	J:164563 	
+MGI:95489	Fbn1	fibrillin 1	2		sequestering of BMP in extracellular matrix			IMP		J:165256 	
+MGI:1915681	Fbxl15	F-box and leucine-rich repeat protein 15	19		positive regulation of BMP signaling pathway			ISO	Q9H469 	J:164563 	
+MGI:1341070	Fkbp8	FK506 binding protein 8	8		positive regulation of BMP signaling pathway	regulates a function/process that happens in neural tube		IMP	MGI:3042750 	J:138713 	
+MGI:1341070	Fkbp8	FK506 binding protein 8	8		regulation of BMP signaling pathway	regulates a function/process that happens in neural tube		IGI	MGI:95728 	J:138713 	
+MGI:1347463	Foxd1	forkhead box D1	13		positive regulation of BMP signaling pathway			IMP		J:95358 	
+MGI:95586	Fst	follistatin	13		BMP signaling pathway	happens in lower jaw incisor epithelium,happens in ameloblast		IGI	MGI:88180 	J:94518 	
+MGI:95586	Fst	follistatin	13		regulation of BMP signaling pathway			IBA	PTN001657053 	J:265628 	
+MGI:102793	Fstl1	follistatin-like 1	16		regulation of BMP signaling pathway			IBA	PTN002588888 	J:265628 	
+MGI:1890391	Fstl3	follistatin-like 3	10		negative regulation of BMP signaling pathway			IDA		J:66713 	
+MGI:1890391	Fstl3	follistatin-like 3	10		negative regulation of BMP signaling pathway			ISO	O95633 	J:164563 	
+MGI:1890391	Fstl3	follistatin-like 3	10		regulation of BMP signaling pathway			IBA	PTN001657053 	J:265628 	
+MGI:1196625	Fzd1	frizzled class receptor 1	5		negative regulation of BMP signaling pathway			IDA		J:88480 	
+MGI:95664	Gata4	GATA binding protein 4	14		positive regulation of BMP signaling pathway			ISO	RGD:2665 	J:155856 	
+MGI:107516	Gata6	GATA binding protein 6	18		positive regulation of BMP signaling pathway			ISO	RGD:2666 	J:155856 	
+MGI:95683	Gdf1	growth differentiation factor 1	8		BMP signaling pathway			IBA	PTN000218210 	J:265628 	
+MGI:1321394	Gdf2	growth differentiation factor 2	14		BMP signaling pathway			ISO	Q9UK05 	J:164563 	
+MGI:1321394	Gdf2	growth differentiation factor 2	14		positive regulation of BMP signaling pathway			IDA		J:164086 	
+MGI:95686	Gdf3	growth differentiation factor 3	6		BMP signaling pathway			IBA	PTN000218210 	J:265628 	
+MGI:95686	Gdf3	growth differentiation factor 3	6		negative regulation of BMP signaling pathway			ISO	Q9NR23 	J:164563 	
+MGI:95688	Gdf5	growth differentiation factor 5	2		BMP signaling pathway			IBA	PTN000218210 	J:265628 	
+MGI:95688	Gdf5	growth differentiation factor 5	2		positive regulation of BMP signaling pathway			ISO	P43026 	J:164563 	
+MGI:95689	Gdf6	growth differentiation factor 6	4		BMP signaling pathway			IDA		J:101432 	
+MGI:95689	Gdf6	growth differentiation factor 6	4		BMP signaling pathway			IGI	MGI:107191 MGI:1338938 	J:101432 	
+MGI:95689	Gdf6	growth differentiation factor 6	4		BMP signaling pathway			IMP		J:229306 	
+MGI:95689	Gdf6	growth differentiation factor 6	4		BMP signaling pathway			ISO	Q6KF10 	J:164563 	
+MGI:95690	Gdf7	growth differentiation factor 7	12		BMP signaling pathway			IBA	PTN000218210 	J:265628 	
+MGI:95690	Gdf7	growth differentiation factor 7	12		BMP signaling pathway			IDA		J:101432 	
+MGI:95690	Gdf7	growth differentiation factor 7	12		BMP signaling pathway			IGI	MGI:107191 MGI:1338938 	J:101432 	
+MGI:95690	Gdf7	growth differentiation factor 7	12		BMP signaling pathway			ISO	Q7Z4P5 	J:164563 	
+MGI:95692	Gdf9	growth differentiation factor 9	11		BMP signaling pathway			IBA	PTN000218210 	J:265628 	
+MGI:1346047	Gdf15	growth differentiation factor 15	8		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:104903	Gpc3	glypican 3	X		positive regulation of BMP signaling pathway			IMP	MGI:2159356 	J:99651 	
+MGI:1344337	Grem1	gremlin 1, DAN family BMP antagonist	2		negative regulation of BMP signaling pathway	regulates a function/process that has the participant Bmp4		IMP	MGI:3046937 	J:122530 	
+MGI:1344337	Grem1	gremlin 1, DAN family BMP antagonist	2		negative regulation of BMP signaling pathway			ISO	O60565 	J:164563 	
+MGI:1344337	Grem1	gremlin 1, DAN family BMP antagonist	2		sequestering of BMP from receptor via BMP binding			IBA	PTN002309998 	J:265628 	
+MGI:1344367	Grem2	gremlin 2, DAN family BMP antagonist	1		negative regulation of BMP signaling pathway	uses UniProtKB:P21274		IMP		J:200257 	
+MGI:1344367	Grem2	gremlin 2, DAN family BMP antagonist	1		sequestering of BMP from receptor via BMP binding			IBA	PTN002309998 	J:265628 	
+MGI:1344367	Grem2	gremlin 2, DAN family BMP antagonist	1		sequestering of BMP from receptor via BMP binding			IMP		J:200257 	
+MGI:104853	Hes1	hes family bHLH transcription factor 1	16		positive regulation of BMP signaling pathway	regulates a function/process that happens in choroid invagination		IGI	MGI:104876 	J:139170 	
+MGI:104876	Hes5	hes family bHLH transcription factor 5	4		positive regulation of BMP signaling pathway	regulates a function/process that happens in choroid invagination		IGI	MGI:104853 	J:139170 	
+MGI:109191	Hfe	homeostatic iron regulator	13		BMP signaling pathway			ISO	Q30201 	J:164563 	
+MGI:1314872	Hipk2	homeodomain interacting protein kinase 2	6		negative regulation of BMP signaling pathway			ISO	Q9H2X6 	J:164563 	
+MGI:96100	Hivep1	human immunodeficiency virus type I enhancer binding protein 1	13		BMP signaling pathway			ISO	P15822 	J:164563 	
+MGI:1916835	Hjv	hemojuvelin BMP co-receptor	3		BMP signaling pathway			IBA	PTN001265550 	J:265628 	
+MGI:1916835	Hjv	hemojuvelin BMP co-receptor	3		BMP signaling pathway			IGI	MGI:107191 MGI:109452 MGI:1338938 MGI:88177 	J:109016 	
+MGI:1916835	Hjv	hemojuvelin BMP co-receptor	3		BMP signaling pathway	happens in hepatocyte		IGI	MGI:1321394 MGI:88177 MGI:88180 	J:182123 	
+MGI:1916835	Hjv	hemojuvelin BMP co-receptor	3		BMP signaling pathway			IMP	MGI:3587746 	J:212210 	
+MGI:1916835	Hjv	hemojuvelin BMP co-receptor	3		BMP signaling pathway	happens in liver		IMP	MGI:3587746 	J:109016 	
+MGI:1916835	Hjv	hemojuvelin BMP co-receptor	3		BMP signaling pathway			ISO	Q6ZVN8 	J:164563 	
+MGI:1916835	Hjv	hemojuvelin BMP co-receptor	3		negative regulation of BMP signaling pathway			IGI	MGI:88177 	J:160796 	
+MGI:96173	Hoxa13	homeobox A13	6		regulation of BMP signaling pathway	regulates a function/process that happens in genital tubercle,regulates a function/process that happens in mesenchymal stem cell		IMP	MGI:2152356 	J:83431 	
+MGI:1929076	Htra1	HtrA serine peptidase 1	7		negative regulation of BMP signaling pathway			IDA		J:88556 	
+MGI:1925808	Htra3	HtrA serine peptidase 3	5		negative regulation of BMP signaling pathway			IDA		J:91306 	
+MGI:96396	Id1	inhibitor of DNA binding 1, HLH protein	2		BMP signaling pathway			IDA		J:97303 	
+MGI:1195267	Ilk	integrin linked kinase	7		positive regulation of BMP signaling pathway			IMP		J:172937 	
+MGI:96602	Itga3	integrin alpha 3	11		regulation of BMP signaling pathway			ISO	P26006 	J:164563 	
+MGI:2141640	Kcp	kielin/chordin-like protein	6		positive regulation of BMP signaling pathway			IDA		J:97529 	
+MGI:96683	Kdr	kinase insert domain protein receptor	5		positive regulation of BMP signaling pathway			IDA		J:164086 	
+MGI:96770	Lef1	lymphoid enhancer binding factor 1	3		BMP signaling pathway			IDA		J:50462 	
+MGI:107405	Lefty1	left right determination factor 1	1		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:2443573	Lefty2	left-right determination factor 2	1		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:2385045	Lemd2	LEM domain containing 2	17		negative regulation of BMP signaling pathway			IBA	PTN000334938 	J:265628 	
+MGI:3580376	Lemd3	LEM domain containing 3	10		negative regulation of BMP signaling pathway			IBA	PTN000334938 	J:265628 	
+MGI:3580376	Lemd3	LEM domain containing 3	10		negative regulation of BMP signaling pathway			ISO	Q9Y2U8 	J:164563 	
+MGI:95794	Lrp2	low density lipoprotein receptor-related protein 2	2		negative regulation of BMP signaling pathway			IMP		J:243398 	
+MGI:1346859	Mapk3	mitogen-activated protein kinase 3	7		BMP signaling pathway			ISO	P27361 	J:164563 	
+MGI:2446294	Megf8	multiple EGF-like-domains 8	7		BMP signaling pathway	results in the morphogenesis of trigeminal nerve ophthalmic division		IGI	O35607 	J:206541 	
+MGI:2676843	Mir16-1	microRNA 16-1	14		BMP signaling pathway			IDA		J:150848 	
+MGI:2676897	Mir23a	microRNA 23a	8		BMP signaling pathway			IDA		J:150848 	
+MGI:2676805	Mir122	microRNA 122	18		BMP signaling pathway			IDA		J:150848 	
+MGI:2676809	Mir125a	microRNA 125a	17		BMP signaling pathway	happens in embryonic stem cell		IGI	MGI:1338938 	J:192401 	
+MGI:2676832	Mir147	microRNA 147	2		BMP signaling pathway			IDA		J:150848 	
+MGI:2676886	Mir210	microRNA 210	7		BMP signaling pathway			IDA		J:150848 	
+MGI:3619341	Mir329	microRNA 329	12		BMP signaling pathway			IDA		J:150848 	
+MGI:3629709	Mir675	microRNA 675	7		negative regulation of BMP signaling pathway			IMP		J:209142 	
+MGI:2676793	Mirlet7a-1	microRNA let7a-1	13		BMP signaling pathway			IDA		J:150848 	
+MGI:2676794	Mirlet7b	microRNA let7b	15		BMP signaling pathway			IDA		J:150848 	
+MGI:2676796	Mirlet7d	microRNA let7d	13		BMP signaling pathway			IDA		J:150848 	
+MGI:2676798	Mirlet7f-1	microRNA let7f-1	13		BMP signaling pathway			IDA		J:150848 	
+MGI:2676799	Mirlet7f-2	microRNA let7f-2	X		BMP signaling pathway			IDA		J:150848 	
+MGI:97168	Msx1	msh homeobox 1	5		BMP signaling pathway	happens in neural tube		IDA		J:138713 	
+MGI:97168	Msx1	msh homeobox 1	5		BMP signaling pathway	happens in outflow tract,has the participant Bmp2|happens in outflow tract,has the participant Bmp4|happens in outflow tract,has the participant Smad1|happens in outflow tract,has the participant Smad5|happens in outflow tract,has the participant Smad9		IGI	MGI:1926386 	J:124119 	
+MGI:97168	Msx1	msh homeobox 1	5		BMP signaling pathway			ISO	P28361 	J:157031 	
+MGI:97168	Msx1	msh homeobox 1	5		BMP signaling pathway involved in heart development	happens in heart		IGI	MGI:97169 	J:139946 	
+MGI:97168	Msx1	msh homeobox 1	5		positive regulation of BMP signaling pathway	regulates a function/process that happens in heart		IGI	MGI:97169 	J:139946 	
+MGI:97169	Msx2	msh homeobox 2	13		BMP signaling pathway	happens in neural tube		IDA		J:138713 	
+MGI:97169	Msx2	msh homeobox 2	13		BMP signaling pathway	happens in outflow tract,has the participant Bmp2|happens in outflow tract,has the participant Bmp4|happens in outflow tract,has the participant Smad1|happens in outflow tract,has the participant Smad5|happens in outflow tract,has the participant Smad9		IGI	MGI:97168 	J:124119 	
+MGI:97169	Msx2	msh homeobox 2	13		BMP signaling pathway involved in heart development	happens in heart		IGI	MGI:97168 	J:139946 	
+MGI:97169	Msx2	msh homeobox 2	13		positive regulation of BMP signaling pathway	regulates a function/process that happens in heart		IGI	MGI:97168 	J:139946 	
+MGI:1919200	Nanog	Nanog homeobox	6		negative regulation of BMP signaling pathway	regulates a function/process that happens in epiblast cell		IDA		J:111703 	
+MGI:104591	Nbl1	NBL1, DAN family BMP antagonist	4		negative regulation of BMP signaling pathway			IDA		J:197419 	
+MGI:104591	Nbl1	NBL1, DAN family BMP antagonist	4		sequestering of BMP from receptor via BMP binding			IBA	PTN002309998 	J:265628 	
+MGI:104591	Nbl1	NBL1, DAN family BMP antagonist	4		sequestering of BMP in extracellular matrix			IDA		J:47309 	
+MGI:1097159	Neo1	neogenin	9		positive regulation of BMP signaling pathway			IGI	MGI:88177 	J:160796 	
+MGI:97359	Nodal	nodal	10		BMP signaling pathway			IBA	PTN000218210 	J:265628 	
+MGI:104327	Nog	noggin	11		BMP signaling pathway involved in heart development			IMP		J:133691 	
+MGI:104327	Nog	noggin	11		negative regulation of BMP signaling pathway			IBA	PTN000827385 	J:265628 	
+MGI:104327	Nog	noggin	11		negative regulation of BMP signaling pathway			IDA		J:90643 J:101046 J:120067 J:122704 J:157031 	
+MGI:104327	Nog	noggin	11		negative regulation of BMP signaling pathway	regulates a function/process that happens in embryonic stem cell		IDA		J:155850 	
+MGI:104327	Nog	noggin	11		negative regulation of BMP signaling pathway			IGI	MGI:88177 MGI:88182 	J:154664 	
+MGI:104327	Nog	noggin	11		negative regulation of BMP signaling pathway			IMP	MGI:1862000 	J:110617 	
+MGI:104327	Nog	noggin	11		negative regulation of BMP signaling pathway			ISO	Q13253 	J:164563 	
+MGI:104327	Nog	noggin	11		regulation of BMP signaling pathway			IMP	MGI:1862000 	J:121318 	
+MGI:97363	Notch1	notch 1	2		negative regulation of BMP signaling pathway			IMP		J:155019 	
+MGI:97363	Notch1	notch 1	2		positive regulation of BMP signaling pathway			IDA		J:166398 	
+MGI:97364	Notch2	notch 2	3		positive regulation of BMP signaling pathway	regulates a function/process that happens in eye		IMP	MGI:3617328 	J:197419 	
+MGI:2443665	Numa1	nuclear mitotic apparatus protein 1	7		positive regulation of BMP signaling pathway			IMP		J:229900 	
+MGI:107490	Pdcd4	programmed cell death 4	19		BMP signaling pathway			ISO	Q53EL6 	J:164563 	
+MGI:2145154	Pelo	pelota mRNA surveillance and ribosome rescue factor	13		positive regulation of BMP signaling pathway			IMP	MGI:2450933 	J:228122 	
+MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	17		BMP signaling pathway involved in heart induction			ISO	Q01860 	J:164563 	
+MGI:97747	Pparg	peroxisome proliferator activated receptor gamma	6		negative regulation of BMP signaling pathway			ISO	P37231 	J:164563 	
+MGI:99878	Ppm1a	protein phosphatase 1A, magnesium dependent, alpha isoform	12		negative regulation of BMP signaling pathway			IMP		J:217224 	
+MGI:96522	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	5		positive regulation of BMP signaling pathway			IMP		J:119151 	
+MGI:2679262	Rgma	repulsive guidance molecule family member A	7		BMP signaling pathway			IBA	PTN001265550 	J:265628 	
+MGI:2679262	Rgma	repulsive guidance molecule family member A	7		BMP signaling pathway			IGI	MGI:88177 MGI:88181 	J:101046 	
+MGI:2679262	Rgma	repulsive guidance molecule family member A	7		regulation of BMP signaling pathway	regulates a function/process that happens in smooth muscle cell		IDA		J:123381 	
+MGI:2679262	Rgma	repulsive guidance molecule family member A	7		regulation of BMP signaling pathway	regulates a function/process that happens in smooth muscle cell		IMP		J:123381 	
+MGI:2679262	Rgma	repulsive guidance molecule family member A	7		regulation of BMP signaling pathway			ISO	NP_064596 	J:123381 	
+MGI:1916049	Rgmb	repulsive guidance molecule family member B	17		BMP signaling pathway			IBA	PTN001265550 	J:265628 	
+MGI:1916049	Rgmb	repulsive guidance molecule family member B	17		BMP signaling pathway			IDA		J:98740 	
+MGI:2444521	Rnf165	ring finger protein 165	18		positive regulation of BMP signaling pathway			IBA	PTN001007268 	J:265628 	
+MGI:2444521	Rnf165	ring finger protein 165	18		positive regulation of BMP signaling pathway			IMP	MGI:5516581 	J:198828 	
+MGI:1347521	Ror2	receptor tyrosine kinase-like orphan receptor 2	13		BMP signaling pathway			IMP	MGI:3793279 	J:163602 	
+MGI:99829	Runx2	runt related transcription factor 2	17		BMP signaling pathway			IMP		J:196266 	
+MGI:102934	Scx	scleraxis	15		BMP signaling pathway			IMP		J:156015 	
+MGI:892014	Sfrp1	secreted frizzled-related protein 1	8		negative regulation of BMP signaling pathway	regulates a function/process that happens in neural tube		IGI	MGI:108078 	J:157031 	
+MGI:108078	Sfrp2	secreted frizzled-related protein 2	3		negative regulation of BMP signaling pathway			IDA		J:157031 	
+MGI:108078	Sfrp2	secreted frizzled-related protein 2	3		negative regulation of BMP signaling pathway	regulates a function/process that happens in neural tube		IGI	MGI:892014 	J:157031 	
+MGI:892010	Sfrp4	secreted frizzled-related protein 4	13		regulation of BMP signaling pathway			IMP		J:234467 	
+MGI:1860298	Sfrp5	secreted frizzled-related sequence protein 5	19		regulation of BMP signaling pathway			IEA	IPR034860 	J:72247 	
+MGI:98310	Ski	ski sarcoma viral oncogene homolog (avian)	4		negative regulation of BMP signaling pathway			IBA	PTN000000299 	J:265628 	
+MGI:98310	Ski	ski sarcoma viral oncogene homolog (avian)	4		negative regulation of BMP signaling pathway			IGI	MGI:88177 	J:178818 	
+MGI:98310	Ski	ski sarcoma viral oncogene homolog (avian)	4		negative regulation of BMP signaling pathway			ISO	P12755 	J:164563 	
+MGI:106203	Skil	SKI-like	3		negative regulation of BMP signaling pathway			IBA	PTN000000299 	J:265628 	
+MGI:2443473	Skor1	SKI family transcriptional corepressor 1	9		negative regulation of BMP signaling pathway			IBA	PTN000000299 	J:265628 	
+MGI:3645984	Skor2	SKI family transcriptional corepressor 2	18		negative regulation of BMP signaling pathway			IBA	PTN000000299 	J:265628 	
+MGI:3645984	Skor2	SKI family transcriptional corepressor 2	18		negative regulation of BMP signaling pathway			IGI	MGI:88177 	J:178818 	
+MGI:1332247	Slc33a1	solute carrier family 33 (acetyl-CoA transporter), member 1	3		BMP signaling pathway			ISO	O00400 	J:164563 	
+MGI:1919336	Slc39a5	solute carrier family 39 (metal ion transporter), member 5	10		BMP signaling pathway			IBA	PTN002638841 	J:265628 	
+MGI:1919336	Slc39a5	solute carrier family 39 (metal ion transporter), member 5	10		BMP signaling pathway			ISO	Q6ZMH5 	J:164563 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway			IBA	PTN000344419 	J:265628 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway			IDA		J:217224 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway			IGI	MGI:107191 MGI:1916835 MGI:88177 	J:109016 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway			IGI	MGI:1328787 MGI:1859993 	J:147287 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway	happens in liver		IGI	P20722 	J:151027 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway			IGI	P97454 	J:196266 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway			IMP	MGI:3045218 	J:90769 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway			ISO	RGD:3030 	J:155856 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway			ISO	Q15797 	J:164563 	
+MGI:109452	Smad1	SMAD family member 1	8		BMP signaling pathway			TAS		J:79484 	
+MGI:108051	Smad2	SMAD family member 2	18		BMP signaling pathway			IBA	PTN000344419 	J:265628 	
+MGI:108051	Smad2	SMAD family member 2	18		positive regulation of BMP signaling pathway			ISO	Q15796 	J:164563 	
+MGI:1201674	Smad3	SMAD family member 3	9		BMP signaling pathway			IBA	PTN000344419 	J:265628 	
+MGI:894293	Smad4	SMAD family member 4	18		BMP signaling pathway			IBA	PTN000344419 	J:265628 	
+MGI:894293	Smad4	SMAD family member 4	18		BMP signaling pathway	happens in hepatocyte		IMP		J:129666 	
+MGI:894293	Smad4	SMAD family member 4	18		BMP signaling pathway			ISO	Q13485 	J:164563 	
+MGI:894293	Smad4	SMAD family member 4	18		positive regulation of BMP signaling pathway			ISO	Q13485 	J:164563 	
+MGI:1328787	Smad5	SMAD family member 5	13		BMP signaling pathway			IBA	PTN000344419 	J:265628 	
+MGI:1328787	Smad5	SMAD family member 5	13		BMP signaling pathway	happens in neural tube		IDA		J:138713 	
+MGI:1328787	Smad5	SMAD family member 5	13		BMP signaling pathway			IGI	P70340 	J:196266 	
+MGI:1328787	Smad5	SMAD family member 5	13		BMP signaling pathway			IGI	MGI:109452 MGI:1859993 	J:147287 	
+MGI:1328787	Smad5	SMAD family member 5	13		BMP signaling pathway	happens in liver		IGI	P20722 	J:151027 	
+MGI:1328787	Smad5	SMAD family member 5	13		BMP signaling pathway			TAS		J:79484 	
+MGI:1336883	Smad6	SMAD family member 6	9		BMP signaling pathway			IBA	PTN000344419 	J:265628 	
+MGI:1336883	Smad6	SMAD family member 6	9		BMP signaling pathway			ISO	O43541 	J:164563 	
+MGI:1336883	Smad6	SMAD family member 6	9		negative regulation of BMP signaling pathway			ISO	O43541 	J:164563 	
+MGI:1100518	Smad7	SMAD family member 7	18		BMP signaling pathway			IBA	PTN000344419 	J:265628 	
+MGI:1100518	Smad7	SMAD family member 7	18		negative regulation of BMP signaling pathway			IDA		J:157031 	
+MGI:1100518	Smad7	SMAD family member 7	18		negative regulation of BMP signaling pathway			ISO	O15105 	J:164563 	
+MGI:1859993	Smad9	SMAD family member 9	3		BMP signaling pathway			IBA	PTN000344419 	J:265628 	
+MGI:1859993	Smad9	SMAD family member 9	3		BMP signaling pathway	happens in neural tube		IDA		J:138713 	
+MGI:1859993	Smad9	SMAD family member 9	3		BMP signaling pathway			IGI	MGI:109452 MGI:1328787 	J:147287 	
+MGI:1859993	Smad9	SMAD family member 9	3		BMP signaling pathway	happens in liver		IGI	P20722 	J:151027 	
+MGI:1927578	Smpd3	sphingomyelin phosphodiesterase 3, neutral	8		BMP signaling pathway			IDA		J:212995 	
+MGI:1923038	Smurf1	SMAD specific E3 ubiquitin protein ligase 1	5		BMP signaling pathway			ISO	Q9HCE7 	J:164563 	
+MGI:1923038	Smurf1	SMAD specific E3 ubiquitin protein ligase 1	5		negative regulation of BMP signaling pathway			IBA	PTN002258298 	J:265628 	
+MGI:1923038	Smurf1	SMAD specific E3 ubiquitin protein ligase 1	5		negative regulation of BMP signaling pathway			ISO	Q9HCE7 	J:164563 	
+MGI:1913563	Smurf2	SMAD specific E3 ubiquitin protein ligase 2	11		negative regulation of BMP signaling pathway			IBA	PTN002258298 	J:265628 	
+MGI:1202296	Sorl1	sortilin-related receptor, LDLR class A repeats-containing	9		negative regulation of BMP signaling pathway			IMP		J:228024 	
+MGI:1921749	Sost	sclerostin	11		negative regulation of BMP signaling pathway			IBA	PTN001028853 	J:265628 	
+MGI:1921749	Sost	sclerostin	11		negative regulation of BMP signaling pathway	regulates a function/process that happens in osteoblast		IDA		J:128100 	
+MGI:1921749	Sost	sclerostin	11		negative regulation of BMP signaling pathway			ISO	Q9BQB4 	J:86838 	
+MGI:1913292	Sostdc1	sclerostin domain containing 1	12		negative regulation of BMP signaling pathway			IBA	PTN001028853 	J:265628 	
+MGI:1913292	Sostdc1	sclerostin domain containing 1	12		negative regulation of BMP signaling pathway	regulates a function/process that happens in lower jaw molar epithelium,regulates a function/process that happens in epithelial cell		IDA		J:101382 	
+MGI:1913292	Sostdc1	sclerostin domain containing 1	12		negative regulation of BMP signaling pathway			IDA		J:86665 	
+MGI:1913292	Sostdc1	sclerostin domain containing 1	12		negative regulation of BMP signaling pathway	regulates a function/process that happens in lower jaw molar epithelium,regulates a function/process that happens in epithelial cell		IGI	MGI:88180 	J:101382 	
+MGI:1913292	Sostdc1	sclerostin domain containing 1	12		negative regulation of BMP signaling pathway			ISO	Q6X4U4 	J:164563 	
+MGI:98359	Sox11	SRY (sex determining region Y)-box 11	12		positive regulation of BMP signaling pathway			IMP		J:136878 	
+MGI:2139806	Spg20	spastic paraplegia 20, spartin (Troyer syndrome) homolog (human)	3		negative regulation of BMP signaling pathway			IBA	PTN000472066 	J:265628 	
+MGI:2139806	Spg20	spastic paraplegia 20, spartin (Troyer syndrome) homolog (human)	3		negative regulation of BMP signaling pathway	regulates a function/process that happens in fibroblast		IMP	MGI:5430946 	J:185987 	
+MGI:2138563	Sulf1	sulfatase 1	1		positive regulation of BMP signaling pathway			ISO	Q8IWU6 	J:164563 	
+MGI:1202879	Tcf7l2	transcription factor 7 like 2, T cell specific, HMG box	19		negative regulation of BMP signaling pathway	regulates a function/process that happens in Rathke's pouch		IMP	MGI:1926344 	J:127546 	
+MGI:104672	Tfap2b	transcription factor AP-2 beta	1		regulation of BMP signaling pathway			IMP		J:175832 	
+MGI:98725	Tgfb1	transforming growth factor, beta 1	7		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:98726	Tgfb2	transforming growth factor, beta 2	1		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:98727	Tgfb3	transforming growth factor, beta 3	12		BMP signaling pathway			IBA	PTN000932183 	J:265628 	
+MGI:104637	Tgfbr3	transforming growth factor, beta receptor III	5		BMP signaling pathway			ISO	Q03167 	J:164563 	
+MGI:104637	Tgfbr3	transforming growth factor, beta receptor III	5		positive regulation of BMP signaling pathway	regulates a function/process that happens in palatal shelf,regulates a function/process that has the participant Bmp2,regulates a function/process that has the participant Bmp4,regulates a function/process that has the participant Acvr1,regulates a function/process that has the participant Bmpr1a		IMP		J:218259 	
+MGI:1915138	Tmem100	transmembrane protein 100	11		BMP signaling pathway			ISO	Q9NV29 	J:164563 	
+MGI:1919003	Tmprss6	transmembrane serine protease 6	15		negative regulation of BMP signaling pathway	regulates a function/process that happens in hepatocyte		IGI	MGI:1321394 MGI:1916835 MGI:88177 MGI:88180 	J:182123 	
+MGI:1349721	Tob1	transducer of ErbB-2.1	11		negative regulation of BMP signaling pathway			IDA		J:66504 	
+MGI:2137357	Trim33	tripartite motif-containing 33	3		negative regulation of BMP signaling pathway			ISO	Q9UPN9 	J:164563 	
+MGI:2137520	Twsg1	twisted gastrulation BMP signaling modulator 1	17		BMP signaling pathway			IGI	MGI:88180 	J:90398 	
+MGI:2137520	Twsg1	twisted gastrulation BMP signaling modulator 1	17		negative regulation of BMP signaling pathway			IDA		J:98069 	
+MGI:2137520	Twsg1	twisted gastrulation BMP signaling modulator 1	17		negative regulation of BMP signaling pathway			IMP	MGI:2655736 	J:82738 	
+MGI:2137520	Twsg1	twisted gastrulation BMP signaling modulator 1	17		positive regulation of BMP signaling pathway			IMP	MGI:2655736 	J:82738 	
+MGI:2137520	Twsg1	twisted gastrulation BMP signaling modulator 1	17		regulation of BMP signaling pathway			IBA	PTN000267834 	J:265628 	
+MGI:2444266	Ube2o	ubiquitin-conjugating enzyme E2O	11		positive regulation of BMP signaling pathway			ISO	Q9C0C9 	J:164563 	
+MGI:894681	Usp9x	ubiquitin specific peptidase 9, X chromosome	X		BMP signaling pathway			ISO	Q93008 	J:164563 	
+MGI:101857	Usp15	ubiquitin specific peptidase 15	10		BMP signaling pathway			ISO	Q9Y4E8 	J:164563 	
+MGI:1921298	Vsir	V-set immunoregulatory receptor	10		BMP signaling pathway	happens in embryonic stem cell		IGI	MGI:2676809 	J:192401 	
+MGI:1921298	Vsir	V-set immunoregulatory receptor	10		positive regulation of BMP signaling pathway	regulates a function/process that happens in stem cell		IGI	MGI:1338938 	J:193667 	
+MGI:1921298	Vsir	V-set immunoregulatory receptor	10		positive regulation of BMP signaling pathway	regulates a function/process that happens in stem cell		IMP		J:193667 	
+MGI:2442987	Vwc2	von Willebrand factor C domain containing 2	11		negative regulation of BMP signaling pathway			IBA	PTN002921765 	J:265628 	
+MGI:2442987	Vwc2	von Willebrand factor C domain containing 2	11		negative regulation of BMP signaling pathway			IDA		J:122704 	
+MGI:2444069	Vwc2l	von Willebrand factor C domain-containing protein 2-like	1		negative regulation of BMP signaling pathway			IBA	PTN002921765 	J:265628 	
+MGI:2444069	Vwc2l	von Willebrand factor C domain-containing protein 2-like	1		negative regulation of BMP signaling pathway			IGI	MGI:88177 MGI:88182 	J:154664 	
+MGI:98953	Wnt1	wingless-type MMTV integration site family, member 1	15		BMP signaling pathway			ISO	Q91029 	J:157031 	
+MGI:98953	Wnt1	wingless-type MMTV integration site family, member 1	15		negative regulation of BMP signaling pathway			ISO	P04628 	J:164563 	
+MGI:98956	Wnt3a	wingless-type MMTV integration site family, member 3A	11		BMP signaling pathway			ISO	Q2LMP1 	J:157031 	
+MGI:98958	Wnt5a	wingless-type MMTV integration site family, member 5A	14		negative regulation of BMP signaling pathway	regulates a function/process that happens in diencephalon		IMP	MGI:1857617 	J:132979 	
+MGI:1919943	Zcchc12	zinc finger, CCHC domain containing 12	X		BMP signaling pathway			IDA		J:152281 	
+MGI:2389445	Zfp128	zinc finger protein 128	7		BMP signaling pathway			IMP		J:79484 	
+MGI:1891217	Zfp423	zinc finger protein 423	8		positive regulation of BMP signaling pathway			IDA		J:166398 	
+

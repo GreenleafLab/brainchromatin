@@ -1,0 +1,9 @@
+GO_REELIN_MEDIATED_SIGNALING_PATHWAY
+> A series of molecular signals initiated by the binding of reelin (a secreted glycoprotein) to a receptor on the surface of a target cell, and ending with regulation of a downstream cellular process, e.g. transcription. [GOC:bf, PMID:12827279, PMID:20223215, PR:000013879]
+CRK
+CRKL
+DAB2IP
+LRP8
+RELN
+STAT5A
+VLDLR

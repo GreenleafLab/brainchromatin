@@ -1,0 +1,44 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1338946	Acvrl1	activin A receptor, type II-like 1	15		positive regulation of BMP signaling pathway			IDA		J:164086 	
+MGI:1338946	Acvrl1	activin A receptor, type II-like 1	15		positive regulation of BMP signaling pathway			ISO	P37023 	J:164563 	
+MGI:88180	Bmp4	bone morphogenetic protein 4	14		positive regulation of BMP signaling pathway			IDA		J:156015 	
+MGI:1095407	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	1		positive regulation of BMP signaling pathway			ISO	Q13873 	J:164563 	
+MGI:88613	Ccn1	cellular communication network factor 1	3		positive regulation of BMP signaling pathway			ISO	O00622 	J:164563 	
+MGI:105057	Cdh5	cadherin 5	8		positive regulation of BMP signaling pathway			ISO	P33151 	J:164563 	
+MGI:2679260	Crb2	crumbs family member 2	2		positive regulation of BMP signaling pathway	uses UniProtKB:P21275		IMP		J:177837 	
+MGI:2443264	Elapor2	endosome-lysosome associated apoptosis and autophagy regulator family member 2	5		positive regulation of BMP signaling pathway			IDA		J:285010 	
+MGI:95392	Eng	endoglin	2		positive regulation of BMP signaling pathway			ISO	P17813 	J:164563 	
+MGI:1915681	Fbxl15	F-box and leucine-rich repeat protein 15	19		positive regulation of BMP signaling pathway			ISO	Q9H469 	J:164563 	
+MGI:1341070	Fkbp8	FK506 binding protein 8	8		positive regulation of BMP signaling pathway	regulates a function/process that happens in neural tube		IMP	MGI:3042750 	J:138713 	
+MGI:1347463	Foxd1	forkhead box D1	13		positive regulation of BMP signaling pathway			IMP		J:95358 	
+MGI:95664	Gata4	GATA binding protein 4	14		positive regulation of BMP signaling pathway			ISO	RGD:2665 	J:155856 	
+MGI:107516	Gata6	GATA binding protein 6	18		positive regulation of BMP signaling pathway			ISO	RGD:2666 	J:155856 	
+MGI:1321394	Gdf2	growth differentiation factor 2	14		positive regulation of BMP signaling pathway			IDA		J:164086 	
+MGI:95688	Gdf5	growth differentiation factor 5	2		positive regulation of BMP signaling pathway			ISO	P43026 	J:164563 	
+MGI:104903	Gpc3	glypican 3	X		positive regulation of BMP signaling pathway			IMP	MGI:2159356 	J:99651 	
+MGI:104853	Hes1	hes family bHLH transcription factor 1	16		positive regulation of BMP signaling pathway	regulates a function/process that happens in choroid invagination		IGI	MGI:104876 	J:139170 	
+MGI:104876	Hes5	hes family bHLH transcription factor 5	4		positive regulation of BMP signaling pathway	regulates a function/process that happens in choroid invagination		IGI	MGI:104853 	J:139170 	
+MGI:1195267	Ilk	integrin linked kinase	7		positive regulation of BMP signaling pathway			IMP		J:172937 	
+MGI:2141640	Kcp	kielin/chordin-like protein	6		positive regulation of BMP signaling pathway			IDA		J:97529 	
+MGI:96683	Kdr	kinase insert domain protein receptor	5		positive regulation of BMP signaling pathway			IDA		J:164086 	
+MGI:97168	Msx1	msh homeobox 1	5		positive regulation of BMP signaling pathway	regulates a function/process that happens in heart		IGI	MGI:97169 	J:139946 	
+MGI:97169	Msx2	msh homeobox 2	13		positive regulation of BMP signaling pathway	regulates a function/process that happens in heart		IGI	MGI:97168 	J:139946 	
+MGI:1097159	Neo1	neogenin	9		positive regulation of BMP signaling pathway			IGI	MGI:88177 	J:160796 	
+MGI:97363	Notch1	notch 1	2		positive regulation of BMP signaling pathway			IDA		J:166398 	
+MGI:97364	Notch2	notch 2	3		positive regulation of BMP signaling pathway	regulates a function/process that happens in eye		IMP	MGI:3617328 	J:197419 	
+MGI:2443665	Numa1	nuclear mitotic apparatus protein 1	7		positive regulation of BMP signaling pathway			IMP		J:229900 	
+MGI:2145154	Pelo	pelota mRNA surveillance and ribosome rescue factor	13		positive regulation of BMP signaling pathway			IMP	MGI:2450933 	J:228122 	
+MGI:96522	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	5		positive regulation of BMP signaling pathway			IMP		J:119151 	
+MGI:2444521	Rnf165	ring finger protein 165	18		positive regulation of BMP signaling pathway			IBA	PTN001007268 	J:265628 	
+MGI:2444521	Rnf165	ring finger protein 165	18		positive regulation of BMP signaling pathway			IMP	MGI:5516581 	J:198828 	
+MGI:108051	Smad2	SMAD family member 2	18		positive regulation of BMP signaling pathway			ISO	Q15796 	J:164563 	
+MGI:894293	Smad4	SMAD family member 4	18		positive regulation of BMP signaling pathway			ISO	Q13485 	J:164563 	
+MGI:98359	Sox11	SRY (sex determining region Y)-box 11	12		positive regulation of BMP signaling pathway			IMP		J:136878 	
+MGI:2138563	Sulf1	sulfatase 1	1		positive regulation of BMP signaling pathway			ISO	Q8IWU6 	J:164563 	
+MGI:104637	Tgfbr3	transforming growth factor, beta receptor III	5		positive regulation of BMP signaling pathway	regulates a function/process that happens in palatal shelf,regulates a function/process that has the participant Bmp2,regulates a function/process that has the participant Bmp4,regulates a function/process that has the participant Acvr1,regulates a function/process that has the participant Bmpr1a		IMP		J:218259 	
+MGI:2137520	Twsg1	twisted gastrulation BMP signaling modulator 1	17		positive regulation of BMP signaling pathway			IMP	MGI:2655736 	J:82738 	
+MGI:2444266	Ube2o	ubiquitin-conjugating enzyme E2O	11		positive regulation of BMP signaling pathway			ISO	Q9C0C9 	J:164563 	
+MGI:1921298	Vsir	V-set immunoregulatory receptor	10		positive regulation of BMP signaling pathway	regulates a function/process that happens in stem cell		IGI	MGI:1338938 	J:193667 	
+MGI:1921298	Vsir	V-set immunoregulatory receptor	10		positive regulation of BMP signaling pathway	regulates a function/process that happens in stem cell		IMP		J:193667 	
+MGI:1891217	Zfp423	zinc finger protein 423	8		positive regulation of BMP signaling pathway			IDA		J:166398 	
+

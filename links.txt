@@ -14,14 +14,14 @@ https://atrev.s3.amazonaws.com/brainchromatin/GA_RNA_Correlations.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_ATAC_Accessibility.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_ATAC_ChromVAR.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_ATAC_rawChrAccrGA.RDS
-https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_Full_RNA.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_RNA_Full.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/PeakGeneLinks_All.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/PeakGeneLinks_Significant.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/RNA_GlialPseudobulks.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/SamplePseudoBulk_Glial_KNNpseudobulk_ATAC_GA.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scATAC_Colors.txt
+https://atrev.s3.amazonaws.com/brainchromatin/scATAC_ChromVAR_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scATAC_GeneActivity.RDS
-https://atrev.s3.amazonaws.com/brainchromatin/scATAC_iterativeLSI.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scATAC_MotifMatchMatrix.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scATAC_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scRNA_Cluster_Markers.RDS

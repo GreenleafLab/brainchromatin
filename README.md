@@ -1,5 +1,5 @@
 # brainchromatin
-Code used to analyze single cell RNA and ATAC sequencing in developing human brain.
+Code used to analyze single cell RNA and ATAC sequencing in developing human cerebral cortex.
 
 Use to reproduce elements of Figures 4-6 in Trevino et al. 2020
 

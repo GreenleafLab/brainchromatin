@@ -13,7 +13,7 @@ https://atrev.s3.amazonaws.com/brainchromatin/CCA_Matching.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/GA_RNA_Correlations.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_ATAC_Accessibility.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_ATAC_ChromVAR.RDS
-https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_ATAC_rawChrAccrGA.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_ATAC_GeneActivity.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Matrix_Glial_KNNpseudoBulk_RNA_Full.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/PeakGeneLinks_All.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/PeakGeneLinks_Significant.RDS
@@ -28,3 +28,4 @@ https://atrev.s3.amazonaws.com/brainchromatin/scRNA_Cluster_Markers.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scRNA_Colors.txt
 https://atrev.s3.amazonaws.com/brainchromatin/scRNA_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scRNA_URD_GlialCells.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/TF_MotifExpressionCorrelation.RDS

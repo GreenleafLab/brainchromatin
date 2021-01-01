@@ -10,10 +10,6 @@
 # Import packages
 ###############################################################################
 
-library(tictoc)
-
-tic()
-
 # Color packages
 
 library(viridis)
@@ -230,7 +226,7 @@ atac.colData <- colData(atac.sce) %>% as.data.frame()
 cca <- readRDS('data_files/rds/CCA_Matching.RDS')
 
 # ChromVAR results
-cvar <- readRDS('data_files/rds/ChromVAR_Object.RDS')
+cvar <- readRDS('data_files/rds/scATAC_ChromVAR_SCE.RDS')
 
 # Gene activity
 ga <- readRDS('data_files/rds/scATAC_GeneActivity.RDS')
@@ -338,10 +334,6 @@ tf.match.possibilities <- readRDS('data_files/rds/TF_MotifExpressionCorrelation.
 ###############################################################################
 ###############################################################################
 ###############################################################################
-
-# end
-toc()
-
 
 
 

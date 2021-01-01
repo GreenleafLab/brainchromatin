@@ -118,7 +118,7 @@ geneSetAveragePlot <- function(genes,
                                trim = NULL,
                                lims = NULL,
                                print = T,
-                               num.panel.rows = 2) {
+                               num.panel.rows = NULL) {
   
   # exception in gene names...
   
@@ -217,6 +217,10 @@ geneSetAveragePlot <- function(genes,
     
     pl.df2 = as.data.frame(cbind(umap, gene.exp))
     pl.df = melt(pl.df2, id.vars = c(dim1, dim2), variable.name = "Gene", value.name = "geneexpr")
+    
+    if (is.null(num.panel.rows) ) {
+      num.panel.rows <- pmax(1, floor(length(genes)/3))
+    }
 
   }
 

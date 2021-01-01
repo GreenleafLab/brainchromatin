@@ -305,7 +305,7 @@ glial.colors <- color.rna %>% filter(cluster %in% glial.groupings)
 
 # This matrix just includes all genes - not just variable-in-glia genes
 # For more plotting flexibility
-full.glial.pb.mat <- readRDS('data_files/rds/Matrix_Glial_KNNpseudoBulk_Full_RNA.RDS')
+full.glial.pb.mat <- readRDS('data_files/rds/Matrix_Glial_KNNpseudoBulk_RNA_Full.RDS')
 
 ###############################################################################
 # And ATAC pseudobulks 

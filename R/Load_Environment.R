@@ -240,6 +240,20 @@ sig.links <- readRDS('data_files/rds/PeakGeneLinks_Significant.RDS')
 all.links <- readRDS('data_files/rds/PeakGeneLinks_All.RDS')
 
 ###############################################################################
+# Import multiome data (scATAC + scRNA)
+###############################################################################
+
+multi.metadata <- read.table(
+  file = 'multiome_cell_metadata.txt',
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+multi.ga <- readRDS('Multiome_ATAC_GeneActivity.RDS')
+multi.atac <- readRDS('Multiome_ATAC_SCE.RDS')
+multi.seu <- readRDS('Multiome_RNA_SCE.RDS')
+
+###############################################################################
 # Read the CCA data (currently ChrAccR gene scores)
 ###############################################################################
 

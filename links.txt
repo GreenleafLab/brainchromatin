@@ -29,3 +29,9 @@ https://atrev.s3.amazonaws.com/brainchromatin/scRNA_Colors.txt
 https://atrev.s3.amazonaws.com/brainchromatin/scRNA_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scRNA_URD_GlialCells.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/TF_MotifExpressionCorrelation.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/Multiome_RNA_SCE.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/Multiome_ATAC_SCE.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/Multiome_ATAC_GeneActivity.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/multiome_rna_counts.tsv
+https://atrev.s3.amazonaws.com/brainchromatin/multiome_atac_gene_activities.tsv
+https://atrev.s3.amazonaws.com/brainchromatin/multiome_cell_metadata.txt

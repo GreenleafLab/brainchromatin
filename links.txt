@@ -1,13 +1,5 @@
-https://atrev.s3.amazonaws.com/brainchromatin/atac_cell_metadata.txt
-https://atrev.s3.amazonaws.com/brainchromatin/atac_chromVAR_TF_activities.tsv.gz
-https://atrev.s3.amazonaws.com/brainchromatin/atac_consensus_peaks.bed.gz
-https://atrev.s3.amazonaws.com/brainchromatin/atac_counts.tsv.gz
-https://atrev.s3.amazonaws.com/brainchromatin/atac_gene_activities.tsv.gz
-https://atrev.s3.amazonaws.com/brainchromatin/FCM_Object.RDS
-https://atrev.s3.amazonaws.com/brainchromatin/peak_gene_links.tsv.gz
-https://atrev.s3.amazonaws.com/brainchromatin/rna_cell_metadata.txt
-https://atrev.s3.amazonaws.com/brainchromatin/rna_cell_names.txt
-https://atrev.s3.amazonaws.com/brainchromatin/rna_counts.tsv.gz
+# R binaries -----------
+
 https://atrev.s3.amazonaws.com/brainchromatin/AllGenes_GenomicRanges.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/CCA_Matching.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/GA_RNA_Correlations.RDS
@@ -19,7 +11,8 @@ https://atrev.s3.amazonaws.com/brainchromatin/PeakGeneLinks_All.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/PeakGeneLinks_Significant.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/RNA_GlialPseudobulks.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/SamplePseudoBulk_Glial_KNNpseudobulk_ATAC_GA.RDS
-https://atrev.s3.amazonaws.com/brainchromatin/scATAC_Colors.txt
+https://atrev.s3.amazonaws.com/brainchromatin/FCM_Object.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/scATAC_Colors.txt # (Color scheme)
 https://atrev.s3.amazonaws.com/brainchromatin/scATAC_ChromVAR_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scATAC_GeneActivity.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scATAC_MotifMatchMatrix.RDS
@@ -32,15 +25,38 @@ https://atrev.s3.amazonaws.com/brainchromatin/TF_MotifExpressionCorrelation.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Multiome_RNA_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Multiome_ATAC_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Multiome_ATAC_GeneActivity.RDS
+
+# Processed Data Files: Counts, peaks, links, ChromVAR, and cell metadata -------
+# -- ATAC
+https://atrev.s3.amazonaws.com/brainchromatin/atac_cell_metadata.txt
+https://atrev.s3.amazonaws.com/brainchromatin/atac_chromVAR_TF_activities.tsv.gz
+https://atrev.s3.amazonaws.com/brainchromatin/atac_consensus_peaks.bed.gz
+https://atrev.s3.amazonaws.com/brainchromatin/atac_counts.tsv.gz
+https://atrev.s3.amazonaws.com/brainchromatin/atac_gene_activities.tsv.gz
+
+# -- RNA
+https://atrev.s3.amazonaws.com/brainchromatin/peak_gene_links.tsv.gz
+https://atrev.s3.amazonaws.com/brainchromatin/rna_cell_metadata.txt
+https://atrev.s3.amazonaws.com/brainchromatin/rna_cell_names.txt
+https://atrev.s3.amazonaws.com/brainchromatin/rna_counts.tsv.gz
+
+# -- Multiome
 https://atrev.s3.amazonaws.com/brainchromatin/multiome_rna_counts.tsv
 https://atrev.s3.amazonaws.com/brainchromatin/multiome_atac_gene_activities.tsv
 https://atrev.s3.amazonaws.com/brainchromatin/multiome_cell_metadata.txt
+https://atrev.s3.amazonaws.com/brainchromatin/multiome_spliced_rna_counts.tsv.gz
+https://atrev.s3.amazonaws.com/brainchromatin/multiome_unspliced_rna_counts.tsv.gz
+https://atrev.s3.amazonaws.com/brainchromatin/multiome_cluster_names.txt
+
+# ATAC Fragments Files ----------
+# -- Multiome
 https://atrev.s3.amazonaws.com/brainchromatin/hft_ctx_w21_dc1r3_r1_atac_fragments.tsv.gz
 https://atrev.s3.amazonaws.com/brainchromatin/hft_ctx_w21_dc1r3_r1_atac_fragments.tsv.gz.tbi
 https://atrev.s3.amazonaws.com/brainchromatin/hft_ctx_w21_dc2r2_r1_atac_fragments.tsv.gz
 https://atrev.s3.amazonaws.com/brainchromatin/hft_ctx_w21_dc2r2_r1_atac_fragments.tsv.gz.tbi
 https://atrev.s3.amazonaws.com/brainchromatin/hft_ctx_w21_dc2r2_r2_atac_fragments.tsv.gz
 https://atrev.s3.amazonaws.com/brainchromatin/hft_ctx_w21_dc2r2_r2_atac_fragments.tsv.gz.tbi
+# -- Singleome
 https://atrev.s3.amazonaws.com/brainchromatin/hft_w16_p7_r1_fragments.tsv.gz
 https://atrev.s3.amazonaws.com/brainchromatin/hft_w16_p7_r1_fragments.tsv.gz.tbi
 https://atrev.s3.amazonaws.com/brainchromatin/hft_w16_p7_r2_fragments.tsv.gz
@@ -67,7 +83,7 @@ https://atrev.s3.amazonaws.com/brainchromatin/hft_w24_p6_r3_fragments.tsv.gz
 https://atrev.s3.amazonaws.com/brainchromatin/hft_w24_p6_r3_fragments.tsv.gz.tbi
 https://atrev.s3.amazonaws.com/brainchromatin/hft_w24_p6_r4_fragments.tsv.gz
 https://atrev.s3.amazonaws.com/brainchromatin/hft_w24_p6_r4_fragments.tsv.gz.tbi
-https://atrev.s3.amazonaws.com/brainchromatin/multiome_spliced_rna_counts.tsv.gz
-https://atrev.s3.amazonaws.com/brainchromatin/multiome_unspliced_rna_counts.tsv.gz
-https://atrev.s3.amazonaws.com/brainchromatin/multiome_cluster_names.txt
+
+
+
 

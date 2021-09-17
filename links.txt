@@ -52,6 +52,23 @@ https://atrev.s3.amazonaws.com/brainchromatin/multiome_atac_consensus_peaks.txt.
 https://atrev.s3.amazonaws.com/brainchromatin/multiome_atac_gene_activities.tsv
 https://atrev.s3.amazonaws.com/brainchromatin/multiome_atac_counts.tsv.gz
 
+# ATAC cluster-specific BigWigs ---------------
+# Used to train ATAC-seq models
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c0.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c10.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c11.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c13.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c14.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c15.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c1.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c2.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c3.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c4.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c5.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c6.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c7.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c8.bw
+https://atrev.s3.amazonaws.com/brainchromatin/hft_c9.bw
 
 # ATAC Fragments Files ----------
 # -- Multiome

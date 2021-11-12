@@ -19,7 +19,7 @@ https://atrev.s3.amazonaws.com/brainchromatin/scATAC_MotifMatchMatrix.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scATAC_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scRNA_Cluster_Markers.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scRNA_Colors.txt
-https://atrev.s3.amazonaws.com/brainchromatin/scRNA_SCE.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/scRNA_SCE2.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/scRNA_URD_GlialCells.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/TF_MotifExpressionCorrelation.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Multiome_RNA_SCE.RDS

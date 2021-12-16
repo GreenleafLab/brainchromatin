@@ -37,6 +37,7 @@ https://atrev.s3.amazonaws.com/brainchromatin/atac_gene_activities.tsv.gz
 # -- RNA
 https://atrev.s3.amazonaws.com/brainchromatin/peak_gene_links.tsv.gz
 https://atrev.s3.amazonaws.com/brainchromatin/rna_cell_metadata.txt
+https://atrev.s3.amazonaws.com/brainchromatin/velo_colData.txt
 https://atrev.s3.amazonaws.com/brainchromatin/rna_cell_names.txt
 https://atrev.s3.amazonaws.com/brainchromatin/rna_counts.tsv.gz
 

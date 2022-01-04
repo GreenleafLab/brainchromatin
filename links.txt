@@ -25,6 +25,7 @@ https://atrev.s3.amazonaws.com/brainchromatin/TF_MotifExpressionCorrelation.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Multiome_RNA_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Multiome_ATAC_SCE.RDS
 https://atrev.s3.amazonaws.com/brainchromatin/Multiome_ATAC_GeneActivity.RDS
+https://atrev.s3.amazonaws.com/brainchromatin/scRNA_Seurat.RDS
 
 # Processed Data Files: Counts, peaks, links, ChromVAR, and cell metadata -------
 # -- ATAC
